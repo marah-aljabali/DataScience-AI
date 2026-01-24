@@ -11,17 +11,6 @@ The repository is divided into sections that reflect different stages of the lea
 
 ---
 
-## 📁 Repository Structure  
-
-### 🔹 `Python`  
-Includes fundamental Python exercises and problem-solving tasks and
-- Mini project: **Employee Management System** — demonstrates CRUD operations, modular design, and user interaction.  
-
-### 🔹 `Web Scraping`  
-Contains initial tasks in **web scraping** and data collection using bs4 Python library.
-
----
-
 ## 🚀 Current Focus  
 - Expanding practical skills in data cleaning, visualization, and analysis.  
 - Building more advanced AI-related exercises and projects throughout the mentorship.  
@@ -29,14 +18,3 @@ Contains initial tasks in **web scraping** and data collection using bs4 Python 
 
 ---
 
-## 🛠 Technologies  
-- **Languages:** Python  
-- **Libraries:** Pandas, NumPy, BeautifulSoup, Requests  
-- **Tools:** Jupyter Notebook, VS Code, GitHub  
-
----
-
-## 📅 Future Additions  
-- Data visualization tasks (Matplotlib, Seaborn)  
-- Machine learning models (Scikit-learn)  
-- Exploratory Data Analysis (EDA) notebooks  
